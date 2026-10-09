@@ -1,0 +1,7 @@
+Carta Digital La Terraza
+
+Fondo: fotografía real del exterior y jardines de La Terraza, enlazada desde la web de Iguazú Grand. IMPORTANTE: requiere conexión a Internet y depende de que el sitio de origen mantenga la foto disponible. Para mayor confiabilidad, descargar la fotografía autorizada, guardarla en imagenes/terraza-exterior.jpg y sustituir la URL del fondo en style.css por url("imagenes/terraza-exterior.jpg").
+
+Publicación: subir index.html, style.css y carpeta cartas a la raíz del repositorio menu-terraza. En GitHub, Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+Los tres PDF se incluyen localmente en cartas/ y están enlazados.
